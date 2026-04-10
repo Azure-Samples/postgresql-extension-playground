@@ -97,7 +97,7 @@ Learn how to use the new PostgreSQL extension for Visual Studio Code! This repos
 
 6. In the GitHub Copilot chat window, ask this question:
 
-    @pgql For each film, find the film that generated the highest total revenue during the first half of 2022. For each, report the total number of rentals, total rental revenue, and percentage of total revenue for each category. Order by highest revenue. Format as a table.
+    @pgsql For each film, find the film that generated the highest total revenue during the first half of 2022. For each, report the total number of rentals, total rental revenue, and percentage of total revenue for each category. Order by highest revenue. Format as a table.
 
 7. In the PostgreSQL extension, open the "Query History" tab, select the query you just ran, and open the query by selecting "Open Query" in the right-click menu.
 
@@ -121,7 +121,7 @@ Learn how to use the new PostgreSQL extension for Visual Studio Code! This repos
 
     @pgsql what storage and compute resources does my DB have?
 
-    @pgql When did the last backup occur?
+    @pgsql When did the last backup occur?
 
     @pgsql what extensions are in the allowlist for my server?
 
